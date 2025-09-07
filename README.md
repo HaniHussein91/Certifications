@@ -7,11 +7,11 @@ Here you can find verified copies of my professional certifications.
 
 ## Networking & Security Certifications  
 
-**Cisco CCNP Enterprise**  
-**Fortinet Certified Professional (FCP)**  
-**Huawei HCIA Datacom**  
-**Huawei HCIP Security**  
-**F5 Certified BIG-IP Administrator (CA)**  
+- Cisco CCNP Enterprise – [View Certificate](./Cisco%20Certified%20Network%20Professional%20Enterprise.pdf)  
+- Fortinet Certified Professional (FCP) – [View Certificate](./Fortinet%20Certified%20Professional%20Security%20Operations.pdf)  
+- Huawei HCIA Datacom – [View Certificate](./Hani%20Hussein%20HCIA.pdf)  
+- Huawei HCIP Security – [View Certificate](./HCIP%20Security.pdf)  
+ 
 
 ---
 
