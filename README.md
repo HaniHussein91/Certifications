@@ -7,10 +7,14 @@ Here you can find verified copies of my professional certifications.
 
 ## Networking & Security Certifications  
 
-- Cisco CCNP Enterprise – [View Certificate](./CiscoCiscoCertifiedNetworkProfessionalEnterprisecertificate.pdf)  
-- Fortinet Certified Professional (FCP) – [View Certificate](./Fortinet%20Certified%20Professional%20Security%20Operations.pdf)  
-- Huawei HCIA Datacom – [View Certificate](./Hani%20Hussein%20HCIA.pdf)  
-- Huawei HCIP Security – [View Certificate](./HCIP%20Security.pdf)  
+- Cisco CCNA – [View Certificate](<./Cisco Certified Network Associate certificate.pdf>)  
+- Cisco CCNP Enterprise – [View Certificate](<./Cisco Certified Network Professional Enterprise certificate.pdf>)  
+- Fortinet Certified Fundamentals in Cybersecurity – [View Certificate](<./Fortinet Certified Fundamentals in Cybersecurity.pdf>)  
+- Fortinet Certified Professional Security Operations – [View Certificate](<./Fortinet Certified Professional Security Operations.pdf>)  
+- Huawei HCIA Datacom – [View Certificate](<./Hani Hussein HCIA Datacom.pdf>)  
+- Huawei HCIP Security – [View Certificate](<./HCIP Security.pdf>)  
+- Experience Letter – [View Document](<./Experiance Letter.pdf>)  
+
  
 
 ---
